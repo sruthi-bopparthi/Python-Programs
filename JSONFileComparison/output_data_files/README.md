@@ -1,0 +1,1 @@
+Use this folder for storing the output test data files generated while analysis.
